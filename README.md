@@ -9,7 +9,8 @@ Info: https://learn.microsoft.com/en-gb/windows/wsl/install
 wsl --install
 ```
 
-# Enable systemd support
+## Enable systemd support
+Optional. Looks like fresh WSL installs have it enabled by default.
 https://learn.microsoft.com/en-us/windows/wsl/wsl-config#systemd-support
 
 # Install k8s & AWS toolkit

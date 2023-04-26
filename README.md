@@ -3,6 +3,12 @@ Info on WSL2 setup for k8s
 
 OS: Ubuntu 22.04 LTS (on WSL2)
 
+# Install WSL
+Info: https://learn.microsoft.com/en-gb/windows/wsl/install
+```
+wsl --install
+```
+
 # Enable systemd support
 https://learn.microsoft.com/en-us/windows/wsl/wsl-config#systemd-support
 

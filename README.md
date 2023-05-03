@@ -16,3 +16,5 @@ https://learn.microsoft.com/en-us/windows/wsl/wsl-config#systemd-support
 # Install k8s & AWS toolkit
 * Docker Engine: https://docs.docker.com/engine/install/ubuntu/#install-using-the-repository & https://docs.docker.com/engine/install/linux-postinstall/
 * AWS CLI: https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html & `aws configure` (https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-configure.html)
+* kubectl: https://kubernetes.io/docs/tasks/tools/install-kubectl-linux/#install-using-native-package-management
+* eksctl: https://eksctl.io/introduction/#installation
